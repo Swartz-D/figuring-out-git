@@ -8,9 +8,10 @@ commit from feature
 push from feature
 git push --set-upstream origin first-branch-off-main
 must commit all changes in a branch before switching branches
-<<<<<<< HEAD
 -go to github
 -approve pull request
--delete feature branch
-=======
->>>>>>> refs/remotes/origin/main
+-delete feature branch on 
+--feature branch deleted in github but still showing up when git branch -r
+--feature branch will always be visible when doing git branch -r even when it has been deleted
+making a new change here to try to commit to main while main has been changed but i have not pulled it back down
+
