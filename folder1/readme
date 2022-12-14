@@ -20,4 +20,6 @@ will commit and push
 (push is not necessary for successful merge however this is good practice for group work so team can see and review changes before merge)
 then switch to main and merge then delete feature branch
 
+making some changes in main then will merge with branch
+
 now in awesome branch, will commit then push then create a new feature off this branch 
