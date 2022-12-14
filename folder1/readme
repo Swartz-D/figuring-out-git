@@ -8,6 +8,9 @@ commit from feature
 push from feature
 git push --set-upstream origin first-branch-off-main
 must commit all changes in a branch before switching branches
+<<<<<<< HEAD
 -go to github
 -approve pull request
 -delete feature branch
+=======
+>>>>>>> refs/remotes/origin/main
