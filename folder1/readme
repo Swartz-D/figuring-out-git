@@ -1,0 +1,10 @@
+created repo 
+cloned down
+added folder1 and file1.js
+commit and push
+added readme
+created feature branch off main
+commit from feature
+push from feature
+git push --set-upstream origin first-branch-off-main
+must commit all changes in a branch before switching branches
