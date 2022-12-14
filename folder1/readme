@@ -15,3 +15,8 @@ must commit all changes in a branch before switching branches
 --feature branch will always be visible when doing git branch -r even when it has been deleted
 making a new change here to try to commit to main while main has been changed but i have not pulled it back down
 
+making some changes on this new branch
+will commit and push
+(push is not necessary for successful merge however this is good practice for group work so team can see and review changes before merge)
+then switch to main and merge then delete feature branch
+
